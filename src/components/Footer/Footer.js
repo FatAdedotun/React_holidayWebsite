@@ -99,7 +99,7 @@ const Footer = () => {
                 </div>
             </section>
             <section className="FooterText">
-                <p>Made by <a href="/">Adedotun Fatokun.</a> All rights reserved &copy; 2021.</p>
+                <p>Made by <a href="https://fatadedotun.netlify.app/">Adedotun Fatokun.</a> All rights reserved &copy; 2021.</p>
             </section>
         </div>
     )
